@@ -1,4 +1,6 @@
-public class Person {
+package thikKeyword;
+
+public class Person{
    String name;
    int age;
    Person(String name, int age){
@@ -16,3 +18,4 @@ public class Person {
     System.out.println("Age " + age); 
    }
 }
+
