@@ -18,4 +18,8 @@ public class isFabonacci {
             nextTerm = t1 + t2;
         }
     }
+/*     public static void main(String[] args){
+        isFabonacci myFib = new isFabonacci();
+        myFib.Fibonacci();
+    }*/
 }

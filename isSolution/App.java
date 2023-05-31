@@ -10,8 +10,8 @@ public class App {
     //    myPiramid.Piramid();
     //    isVowelOrConstant myVC = new isVowelOrConstant();
     //    myVC.VowelOrConstant();
-        isSumFact mySF = new isSumFact();
-        //mySF.SumFact();
+    //    isSumFact mySF = new isSumFact();
+        mySF.SumFact();
         System.out.print("The Number " + mySF.SumFact());
     }
 }

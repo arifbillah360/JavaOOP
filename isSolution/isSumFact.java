@@ -1,4 +1,4 @@
-package isSolution;
+//package isSolution;
 public class isSumFact {
     public int SumFact(){
        int f = 1, Sum = 0;
@@ -9,4 +9,9 @@ public class isSumFact {
        }
        return Sum;
     }
+    public static void main(String[] args){
+            isSumFact mySF = new isSumFact();
+            mySF.SumFact();
+            System.out.print("The Number " + mySF.SumFact());
+        }
 }
